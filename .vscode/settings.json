@@ -1,0 +1,6 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "files.associations": {
+        "QUE13.C": "cpp"
+    }
+}
